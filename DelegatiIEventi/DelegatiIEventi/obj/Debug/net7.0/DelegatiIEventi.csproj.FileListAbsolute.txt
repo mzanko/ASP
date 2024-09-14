@@ -1,0 +1,14 @@
+D:\Edukacija\ASPdotNet\Primjeri\DelegatiIEventi\DelegatiIEventi\bin\Debug\net7.0\DelegatiIEventi.exe
+D:\Edukacija\ASPdotNet\Primjeri\DelegatiIEventi\DelegatiIEventi\bin\Debug\net7.0\DelegatiIEventi.deps.json
+D:\Edukacija\ASPdotNet\Primjeri\DelegatiIEventi\DelegatiIEventi\bin\Debug\net7.0\DelegatiIEventi.runtimeconfig.json
+D:\Edukacija\ASPdotNet\Primjeri\DelegatiIEventi\DelegatiIEventi\bin\Debug\net7.0\DelegatiIEventi.dll
+D:\Edukacija\ASPdotNet\Primjeri\DelegatiIEventi\DelegatiIEventi\bin\Debug\net7.0\DelegatiIEventi.pdb
+D:\Edukacija\ASPdotNet\Primjeri\DelegatiIEventi\DelegatiIEventi\obj\Debug\net7.0\DelegatiIEventi.GeneratedMSBuildEditorConfig.editorconfig
+D:\Edukacija\ASPdotNet\Primjeri\DelegatiIEventi\DelegatiIEventi\obj\Debug\net7.0\DelegatiIEventi.AssemblyInfoInputs.cache
+D:\Edukacija\ASPdotNet\Primjeri\DelegatiIEventi\DelegatiIEventi\obj\Debug\net7.0\DelegatiIEventi.AssemblyInfo.cs
+D:\Edukacija\ASPdotNet\Primjeri\DelegatiIEventi\DelegatiIEventi\obj\Debug\net7.0\DelegatiIEventi.csproj.CoreCompileInputs.cache
+D:\Edukacija\ASPdotNet\Primjeri\DelegatiIEventi\DelegatiIEventi\obj\Debug\net7.0\DelegatiIEventi.dll
+D:\Edukacija\ASPdotNet\Primjeri\DelegatiIEventi\DelegatiIEventi\obj\Debug\net7.0\refint\DelegatiIEventi.dll
+D:\Edukacija\ASPdotNet\Primjeri\DelegatiIEventi\DelegatiIEventi\obj\Debug\net7.0\DelegatiIEventi.pdb
+D:\Edukacija\ASPdotNet\Primjeri\DelegatiIEventi\DelegatiIEventi\obj\Debug\net7.0\DelegatiIEventi.genruntimeconfig.cache
+D:\Edukacija\ASPdotNet\Primjeri\DelegatiIEventi\DelegatiIEventi\obj\Debug\net7.0\ref\DelegatiIEventi.dll

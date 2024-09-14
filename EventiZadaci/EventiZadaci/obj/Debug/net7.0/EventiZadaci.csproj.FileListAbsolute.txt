@@ -1,0 +1,14 @@
+D:\Edukacija\ASPdotNet\Primjeri\EventiZadaci\EventiZadaci\bin\Debug\net7.0\EventiZadaci.exe
+D:\Edukacija\ASPdotNet\Primjeri\EventiZadaci\EventiZadaci\bin\Debug\net7.0\EventiZadaci.deps.json
+D:\Edukacija\ASPdotNet\Primjeri\EventiZadaci\EventiZadaci\bin\Debug\net7.0\EventiZadaci.runtimeconfig.json
+D:\Edukacija\ASPdotNet\Primjeri\EventiZadaci\EventiZadaci\bin\Debug\net7.0\EventiZadaci.dll
+D:\Edukacija\ASPdotNet\Primjeri\EventiZadaci\EventiZadaci\bin\Debug\net7.0\EventiZadaci.pdb
+D:\Edukacija\ASPdotNet\Primjeri\EventiZadaci\EventiZadaci\obj\Debug\net7.0\EventiZadaci.GeneratedMSBuildEditorConfig.editorconfig
+D:\Edukacija\ASPdotNet\Primjeri\EventiZadaci\EventiZadaci\obj\Debug\net7.0\EventiZadaci.AssemblyInfoInputs.cache
+D:\Edukacija\ASPdotNet\Primjeri\EventiZadaci\EventiZadaci\obj\Debug\net7.0\EventiZadaci.AssemblyInfo.cs
+D:\Edukacija\ASPdotNet\Primjeri\EventiZadaci\EventiZadaci\obj\Debug\net7.0\EventiZadaci.csproj.CoreCompileInputs.cache
+D:\Edukacija\ASPdotNet\Primjeri\EventiZadaci\EventiZadaci\obj\Debug\net7.0\EventiZadaci.dll
+D:\Edukacija\ASPdotNet\Primjeri\EventiZadaci\EventiZadaci\obj\Debug\net7.0\refint\EventiZadaci.dll
+D:\Edukacija\ASPdotNet\Primjeri\EventiZadaci\EventiZadaci\obj\Debug\net7.0\EventiZadaci.pdb
+D:\Edukacija\ASPdotNet\Primjeri\EventiZadaci\EventiZadaci\obj\Debug\net7.0\EventiZadaci.genruntimeconfig.cache
+D:\Edukacija\ASPdotNet\Primjeri\EventiZadaci\EventiZadaci\obj\Debug\net7.0\ref\EventiZadaci.dll

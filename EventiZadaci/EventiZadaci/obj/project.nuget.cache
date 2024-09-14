@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "jGgWR2kT6juTktgJyUcF+b8FY177xbsTfQd6eBlnTauYwLw3cHyk9r9MQKlPVvfqvn9j8Kg+TK3/M2a+y/BetA==",
+  "success": true,
+  "projectFilePath": "D:\\Edukacija\\ASPdotNet\\Primjeri\\EventiZadaci\\EventiZadaci\\EventiZadaci.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\matija.zanko\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.20\\microsoft.windowsdesktop.app.ref.7.0.20.nupkg.sha512",
+    "C:\\Users\\matija.zanko\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.20\\microsoft.netcore.app.ref.7.0.20.nupkg.sha512",
+    "C:\\Users\\matija.zanko\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.20\\microsoft.aspnetcore.app.ref.7.0.20.nupkg.sha512",
+    "C:\\Users\\matija.zanko\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\7.0.20\\microsoft.netcore.app.host.win-x64.7.0.20.nupkg.sha512"
+  ],
+  "logs": []
+}
